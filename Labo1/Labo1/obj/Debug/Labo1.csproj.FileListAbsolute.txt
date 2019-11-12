@@ -1,0 +1,6 @@
+C:\Users\Maxime\Desktop\Annee3\Dotnet\Labo1\Labo1\bin\Debug\Labo1.exe.config
+C:\Users\Maxime\Desktop\Annee3\Dotnet\Labo1\Labo1\bin\Debug\Labo1.exe
+C:\Users\Maxime\Desktop\Annee3\Dotnet\Labo1\Labo1\bin\Debug\Labo1.pdb
+C:\Users\Maxime\Desktop\Annee3\Dotnet\Labo1\Labo1\obj\Debug\Labo1.csprojAssemblyReference.cache
+C:\Users\Maxime\Desktop\Annee3\Dotnet\Labo1\Labo1\obj\Debug\Labo1.exe
+C:\Users\Maxime\Desktop\Annee3\Dotnet\Labo1\Labo1\obj\Debug\Labo1.pdb
